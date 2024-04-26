@@ -51,10 +51,9 @@ body {
 }
 
 .container_details {
-    background-color: brown;
+    background-color:#1D1E22;
     padding-bottom: 420px;
     width: auto;
-    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
