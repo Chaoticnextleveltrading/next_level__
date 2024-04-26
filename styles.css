@@ -64,16 +64,15 @@ body {
 }
 
 .container_details {
-    background-color: brown;
-    padding-bottom: 80px;
+    background-color:#1D1E22;
+    padding-bottom: 170px;
     width: auto;
-    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
-
-
+   border-bottom-right-radius: 15px;
+ border-bottom-left-radius: 15px;
 }
 
 .image {
