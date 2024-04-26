@@ -60,7 +60,6 @@ body {
     background-color: brown;
     padding-bottom: 120px;
     width: auto;
-    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
